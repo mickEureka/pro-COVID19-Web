@@ -9,6 +9,10 @@ public class Paciente {
 	String sexo;
 	String direccion;
 	
+<<<<<<< HEAD
+=======
+	
+>>>>>>> pacientesjsp
 	public Paciente() {
 	
 	}

@@ -6,7 +6,11 @@ import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.util.List;
 
+<<<<<<< HEAD
 import com.util.Conexion;
+=======
+import com.config.Conexion;
+>>>>>>> pacientesjsp
 import com.entidad.Administrador;
 
 public class AdministradorDAO {
