@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\USUARIO\Desktop\proyCOVID_Web\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3350678300.index
+4103643712.index
+3230157626.index
+642447608.index
+3001094924.index
