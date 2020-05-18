@@ -12,25 +12,22 @@
 		<div class="container text-center">
 		<br>
 			<h1>Lista de Pacientes</h1>
-<<<<<<< HEAD
+
 			<br><br>
+
 			<div>
 					<form class="form-inline">
-=======
-			<div>
-				<form class="form-inline">
->>>>>>> pacientesjsp
+
 					<label><strong>Busqueda por Nombre:</strong></label>
 					<input type="search" name="txtBuscar" class="form-control" style="margin-left:10px;margin-right:10px">
 					<input type="submit" name="accion" value="Buscar" class="btn btn-outline-success">
 				</form>
 			</div>
 			<br>
-<<<<<<< HEAD
-=======
+
 			
 			<br>
->>>>>>> pacientesjsp
+
 			<table class="table">
 				<thead class="thead-light">
 					<tr>
@@ -66,11 +63,9 @@
 		
 		  
 		
-<<<<<<< HEAD
+
 		<script></script>
-=======
-		
->>>>>>> pacientesjsp
+
 		<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
