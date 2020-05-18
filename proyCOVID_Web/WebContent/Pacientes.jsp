@@ -12,7 +12,6 @@
 		<div class="container text-center">
 		<br>
 			<h1>Lista de Pacientes</h1>
-			<br><br>
 			<div>
 				<form class="form-inline">
 					<label><strong>Busqueda por Nombre:</strong></label>
@@ -20,6 +19,8 @@
 					<input type="submit" name="accion" value="Buscar" class="btn btn-outline-success">
 				</form>
 			</div>
+			<br>
+			
 			<br>
 			<table class="table">
 				<thead class="thead-light">
